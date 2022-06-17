@@ -11,6 +11,6 @@ Après avoir ajouté la colonne data.length sur wireshark, on peut extraire les 
 
 Sur _Excel_, on obtient :
 
-![alt text](https://github.com/anonylouis/404ctf/blob/master/Analyse_forensique/Ping_pong/analyse.png)
+![alt text](https://github.com/anonylouis/404CTF-2022---Write-ups/blob/main/Analyse_forensique/Ping_pong/analyse.png)
 
 > 404CTF{Un_p1ng_p0ng_p4s_si_1nn0c3nt}
