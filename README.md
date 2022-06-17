@@ -1,6 +1,6 @@
 # 404CTF-2022---Write-ups
 
-![logo] (https://github.com/anonylouis/404CTF-2022---Write-ups/blob/main/challenge_404_LOGO.png)
+![logo](https://github.com/anonylouis/404CTF-2022---Write-ups/blob/main/challenge_404_LOGO.png)
 
 404 CTF est une compétition mise en place par le club de cybersécurité HackademINT de Télécom SudParis et en collaboration avec la DGSE !
 
