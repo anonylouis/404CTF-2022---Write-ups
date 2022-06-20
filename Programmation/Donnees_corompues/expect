@@ -1,0 +1,18 @@
+#!/bin/expect -f
+
+set timeout 2
+
+spawn nc challenge.404ctf.fr 30117
+
+exec rm -f result
+
+set NUM 1
+
+while { $NUM <= 250 } {
+	expect "*>>*"
+	set output [exec sh -c ./script.sh]
+	set NUM [ expr $NUM + 1 ]
+	send "$output\n"
+}
+
+expect eof

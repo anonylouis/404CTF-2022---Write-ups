@@ -1,0 +1,1 @@
+required imagemagick-6 package
